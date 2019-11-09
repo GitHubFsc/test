@@ -11,7 +11,7 @@ body {
   counter-reset: points;
 }
 
-.screen {
+.screen ss{
   position: relative;
   margin: 0 auto;
   max-width: 100vw;
